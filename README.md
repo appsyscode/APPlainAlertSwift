@@ -5,7 +5,9 @@ Notification message is fully customizable
 Original Code from here https://github.com/josshad/EHPlainAlert
 
 
-![APPAlertSwift|352x772, 40%](APPAlertSwift.png)
+<p align="center">
+<img style="text-align:center" src="APPAlertSwift.png" width="50%" height="50%">
+</p>
 
 
 ## Example Success Alert
